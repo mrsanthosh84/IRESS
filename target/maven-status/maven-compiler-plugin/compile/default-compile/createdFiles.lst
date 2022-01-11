@@ -1,0 +1,11 @@
+com\toyrobo\SquareBoard.class
+com\toyrobo\enums\CommandEnum.class
+com\toyrobo\enums\Direction.class
+com\toyrobo\ToyRobot.class
+com\toyrobo\Application.class
+com\toyrobo\interfaces\Board.class
+com\toyrobo\pojo\Position$1.class
+com\toyrobo\Game$1.class
+com\toyrobo\Game.class
+com\toyrobo\exception\ToyRobotException.class
+com\toyrobo\pojo\Position.class
